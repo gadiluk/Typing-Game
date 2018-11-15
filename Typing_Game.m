@@ -4,7 +4,7 @@ TotalTime = zeros(1,8);
 
 wasup =  menu('How fast can you type?' ,'Slow', 'Avarage', 'Fast');
 
-disp('Welcome to Gabes Typing Game of Doom!')
+disp('Welcome to Gabes Typing Game of Doom! Type the words EXACTLY as displayed! ')
 
 disp('Press any key when ready')
 pause 
